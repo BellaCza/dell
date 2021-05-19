@@ -1,0 +1,1 @@
+$(".img-pos-top-left .rendition").css("background", "url('https://placekitten.com/1280/425') center / cover no-repeat");
